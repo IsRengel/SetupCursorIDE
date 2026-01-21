@@ -1,5 +1,16 @@
 # Setup: Install Cursor AI Code Editor on Linux
 
+## ⚠️ Deprecation Notice
+
+This project was created when Cursor Editor was distributed exclusively as an AppImage.
+
+Cursor now provides an official `.deb` package for Linux, making this installer no longer necessary.
+
+To install the official version of Cursor Editor, please visit:
+👉 https://cursor.com/
+
+This repository is kept for historical and educational purposes.
+
 ## Introduction
 
 This guide helps you install **Cursor AI Code Editor** as a desktop application on Linux operating systems, regardless of which distribution you use, simplifying the setup process.
